@@ -1,11 +1,11 @@
 {
-  "name": "katex",
+  "name": "lakatex",
   "version": "0.7.0-pre",
   "description": "Fast math typesetting for the web.",
   "main": "katex.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Khan/KaTeX.git"
+    "url": "git://github.com/EgorP/KaTeX.git"
   },
   "files": [
     "katex.js",
